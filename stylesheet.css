@@ -192,3 +192,72 @@ input[type="search"] {
         flex: 50%;
     }
 }
+
+.wrapper1-top {
+  padding: 200px 0px 100px 0px;
+  background-image: url(https://2.bp.blogspot.com/-3AiMmhUyUUE/Wg9TzG_l46I/AAAAAAAAEuM/OghY2fhUOvoZ-irXHCWY-_3pf8r4uAuXgCLcBGAs/s1600/bs.jpg);
+  background-size: cover;
+  position: relative;
+}
+
+.wrap2-picture {
+  height: 200px;
+  position: absolute;
+  bottom: 40px;
+  margin: 0px 50px 0px 50px;
+}
+
+.wrapper1 {
+  padding-bottom: 100px;
+  text-align: center;
+}
+
+.web-picture img{
+  float: left;
+  width: 25%;
+  margin-top: 3px;
+  
+}
+
+.picture img{
+  position: relative;
+}
+
+.picture4 img {
+  height: 207px;
+}
+
+.wrap2-bot {
+  text-align: center;
+  font-weight: bold;
+  font-size: 35px;
+  margin-top: 10px;
+  padding-top: 250px;
+}
+
+.tim {
+  color: #ff1a75;
+}
+
+.progate {
+  color: #ff6600; 
+}
+
+.tour {
+  color: #00b300;
+}
+
+.travel {
+  color: #0099ff;
+}
+
+.text-home {
+  font-size: 17px;
+  text-align: center;
+}
+
+.text-home p {
+  padding-top: 15px;
+  padding-right: 25px;
+  padding-left: 25px;
+}
