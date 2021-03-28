@@ -15,7 +15,7 @@ body {
 header {
     height: 120px;
     width: 100%;
-    background-image: url(/img-sea.jpg);
+    background: url("img-sea.jpg");
     background-size: cover;
 }
 
